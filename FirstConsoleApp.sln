@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstConsoleApp", "FirstConsoleApp\FirstConsoleApp.csproj", "{D34D1922-6980-48D9-ABFA-0B6DFAACDCBF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstConsoleApp", "src\FirstConsoleApp\FirstConsoleApp.csproj", "{D34D1922-6980-48D9-ABFA-0B6DFAACDCBF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "src\Calculator\Calculator.csproj", "{B02BEBBD-4E54-49E4-BC45-C78034B0D5FF}"
 EndProject
