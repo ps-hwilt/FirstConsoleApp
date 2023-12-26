@@ -8,6 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <Folder Include="src\" />
       <Folder Include="test\" />
     </ItemGroup>
 
